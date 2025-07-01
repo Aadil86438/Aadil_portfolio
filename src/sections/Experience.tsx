@@ -6,7 +6,7 @@ const experienceData = [
     company: "Digitzen",
     location: "Singapore (Remote)",
     position: "Backend Developer Intern",
-    period: "May 2023 - Aug 2023",
+    period: "Jan 2025 - Mar 2025",
     description: "Developed and maintained RESTful APIs using Flask and PostgreSQL. Implemented authentication systems and database optimization. Worked in an Agile environment with international team members.",
     achievements: [
       "Reduced API response time by 40% through database query optimization",
@@ -19,7 +19,7 @@ const experienceData = [
     company: "Majestic Technologies",
     location: "Chennai, India",
     position: "Full Stack Developer Intern",
-    period: "Dec 2022 - Mar 2023",
+    period: "Jul 2024 - Aug 2024",
     description: "Assisted in the development of a customer relationship management system. Worked on both backend (Java, Spring Boot) and frontend (React) components. Conducted API testing and module development.",
     achievements: [
       "Implemented 5 major features in the CRM system from concept to production",

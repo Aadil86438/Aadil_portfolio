@@ -1,12 +1,12 @@
 import { motion } from 'framer-motion';
 
 const skillsData = [
-  { category: "Programming Languages", skills: ["Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS"] },
-  { category: "Frameworks & Libraries", skills: ["Spring Boot", "React", "Flask", "Express.js", "Hibernate", "JUnit"] },
-  { category: "Databases", skills: ["PostgreSQL", "MySQL", "MongoDB", "Supabase", "Redis"] },
+  { category: "Programming Languages", skills: ["Java", "Python", "JavaScript",  "HTML", "CSS"] },
+  { category: "Frameworks & Libraries", skills: ["Spring Boot", "React", "Flask", "Hibernate"] },
+  { category: "Databases", skills: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"] },
   { category: "Tools & Technologies", skills: ["Git", "GitHub", "Docker", "Postman", "Eclipse", "VS Code", "Vercel"] },
-  { category: "Cloud & DevOps", skills: ["AWS", "CI/CD", "Kubernetes", "Microservices"] },
-  { category: "Other Skills", skills: ["RESTful APIs", "GraphQL", "Machine Learning", "Problem Solving", "Agile/Scrum"] }
+  
+  { category: "Other Skills", skills: ["RESTful APIs", "Machine Learning", "Problem Solving", "Agile"] }
 ];
 
 const Skills = () => {

@@ -68,7 +68,7 @@ const Hero = () => {
             
             <div className="mt-10 flex items-center">
               <a
-                href="https://github.com/"
+                href="https://github.com/Aadil86438?tab=repositories"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mr-4 text-dark-400 hover:text-dark-600 dark:text-dark-300 dark:hover:text-dark-100 transition-colors"

@@ -10,8 +10,8 @@ const projectsData = [
     technologies: ["Java", "Spring Boot", "React", "PostgreSQL", "REST API", "JWT Auth"],
     icon: <Database className="h-10 w-10 text-primary-500" />,
     image: "https://images.pexels.com/photos/5428003/pexels-photo-5428003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    demoLink: "https://example.com/demo",
-    githubLink: "https://github.com/example/project"
+    demoLink: "https://github.com/Aadil86438?tab=repositories",
+    githubLink: "https://github.com/Aadil86438?tab=repositories"
   },
   {
     id: 2,
@@ -20,8 +20,8 @@ const projectsData = [
     technologies: ["Python", "Flask", "TensorFlow", "PostgreSQL", "React", "Chart.js", "PDF Generation"],
     icon: <Brain className="h-10 w-10 text-secondary-500" />,
     image: "https://images.pexels.com/photos/8439094/pexels-photo-8439094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    demoLink: "https://example.com/demo",
-    githubLink: "https://github.com/example/project"
+    demoLink: "https://github.com/Aadil86438?tab=repositories",
+    githubLink: "https://github.com/Aadil86438?tab=repositories"
   },
   {
     id: 3,
@@ -30,8 +30,8 @@ const projectsData = [
     technologies: ["Java", "Spring Boot", "PostgreSQL", "WebSockets", "React", "Material UI"],
     icon: <Server className="h-10 w-10 text-accent-500" />,
     image: "https://images.pexels.com/photos/2031755/pexels-photo-2031755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    demoLink: "https://example.com/demo",
-    githubLink: "https://github.com/example/project"
+    demoLink: "https://github.com/Aadil86438?tab=repositories",
+    githubLink: "https://github.com/Aadil86438?tab=repositories"
   }
 ];
 
@@ -160,7 +160,7 @@ const Projects = () => {
             Want to see more of my work?
           </p>
           <a
-            href="https://github.com/"
+            href="https://github.com/Aadil86438?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-outline"

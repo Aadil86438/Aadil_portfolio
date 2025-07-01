@@ -26,7 +26,7 @@ const Footer = () => {
           {/* Social Links */}
           <div className="flex space-x-4">
             <a
-              href="https://github.com/Aadil86438"
+              href="https://github.com/Aadil86438?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full hover:bg-dark-100/20 dark:hover:bg-dark-700/50 transition-colors"
